@@ -1,0 +1,9 @@
+[submodule "tonesniper-backend"]
+    path = tonesniper-backend
+    url =
+    branch = backend
+
+[submodule 'tonesniper-frontend']
+    path = tonesniper-frontend
+    url =
+    branch = frontend

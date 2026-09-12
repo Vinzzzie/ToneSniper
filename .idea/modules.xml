@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/tonesniper.iml" filepath="$PROJECT_DIR$/.idea/tonesniper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tonesniper-frontend/tonesniper-frontend.iml" filepath="$PROJECT_DIR$/tonesniper-frontend/tonesniper-frontend.iml" />
+    </modules>
+  </component>
+</project>
