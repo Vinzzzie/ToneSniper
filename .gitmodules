@@ -3,7 +3,12 @@
     url =
     branch = backend
 
-[submodule 'tonesniper-frontend']
+[submodule "tonesniper-database"]
+    path = tonesniper-database
+    url =
+    branch = database
+
+[submodule "tonesniper-frontend"]
     path = tonesniper-frontend
     url =
     branch = frontend
