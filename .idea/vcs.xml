@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tonesniper-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tonesniper-database" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tonesniper-frontend" vcs="Git" />
   </component>
 </project>

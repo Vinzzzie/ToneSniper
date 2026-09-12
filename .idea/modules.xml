@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/tonesniper.iml" filepath="$PROJECT_DIR$/.idea/tonesniper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tonesniper-database/tonesniper-database.iml" filepath="$PROJECT_DIR$/tonesniper-database/tonesniper-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tonesniper-backend/tonesniper-backend.iml" filepath="$PROJECT_DIR$/tonesniper-backend/tonesniper-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/tonesniper-frontend/tonesniper-frontend.iml" filepath="$PROJECT_DIR$/tonesniper-frontend/tonesniper-frontend.iml" />
     </modules>
   </component>
