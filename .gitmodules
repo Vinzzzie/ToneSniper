@@ -1,14 +1,14 @@
 [submodule "tonesniper-backend"]
     path = tonesniper-backend
-    url =
+    url = git@github.com:Vinzzzie/ToneSniper-backend.git
     branch = backend
 
 [submodule "tonesniper-database"]
     path = tonesniper-database
-    url =
+    url = git@github.com:Vinzzzie/ToneSniper-database.git
     branch = database
 
 [submodule "tonesniper-frontend"]
     path = tonesniper-frontend
-    url =
+    url = git@github.com:Vinzzzie/ToneSniper-frontend.git
     branch = frontend
