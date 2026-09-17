@@ -1,0 +1,14 @@
+FROM minio/minio:latest
+
+LABEL maintainer="ToneSniper Team"
+LABEL description="MinIO Object Storage voor lokale development"
+
+# MinIO data directory
+VOLUME ["/data"]
+
+# Poort 9000: S3 API endpoint
+# Poort 9001: MinIO Web Console UI
+EXPOSE 9000 9001
+
+# Start MinIO server met opslaglocatie /data en vaste console poort
+CMD ["server", "/data", "--console-address", ":9001"]

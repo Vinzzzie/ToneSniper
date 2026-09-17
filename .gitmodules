@@ -12,3 +12,8 @@
     path = tonesniper-frontend
     url = git@github.com:Vinzzzie/ToneSniper-frontend.git
     branch = frontend
+
+[submodule "tonesniper-storage"]
+    path = tonesniper-storage
+    url = git@github.com:Vinzzzie/ToneSniper-storage.git
+    branch = storage

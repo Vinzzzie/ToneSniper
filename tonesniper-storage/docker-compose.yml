@@ -1,0 +1,29 @@
+services:
+  minio:
+    build:
+      context: .
+      dockerfile: Dockerfile.minio
+    container_name: tonesniper/minio:catalina
+    environment:
+      MINIO_ROOT_USER: tonesniper_su
+      MINIO_ROOT_PASSWORD: tonesniper_do
+    ports:
+      - "9000:9000"   # S3 API
+      - "9001:9001"   # Web Console UI
+    volumes:
+      - tonesniper_minio_data:/data
+    networks:
+      - tonesniper_network
+    healthcheck:
+      test: ["CMD", "mc", "ready", "local"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+volumes:
+  tonesniper_minio_data:
+    name: tonesniper_minio_data
+
+networks:
+  tonesniper_network:
+    name: tonesniper_internal_network
