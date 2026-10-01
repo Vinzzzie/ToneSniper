@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/tonesniper-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/tonesniper-worker/pom.xml" />
       </list>
     </option>
   </component>

@@ -17,3 +17,8 @@
     path = tonesniper-storage
     url = git@github.com:Vinzzzie/ToneSniper-storage.git
     branch = storage
+
+[submodule "tonesniper-worker"]
+    path = tonesniper-worker
+    url = git@github.com:Vinzzzie/Tonesniper-worker.git
+    branch = worker
