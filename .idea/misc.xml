@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/tonesniper-backend/pom.xml" />
         <option value="$PROJECT_DIR$/tonesniper-worker/pom.xml" />
+        <option value="$PROJECT_DIR$/tonesniper-domain/pom.xml" />
       </list>
     </option>
   </component>

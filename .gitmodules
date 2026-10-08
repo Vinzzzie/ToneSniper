@@ -22,3 +22,7 @@
     path = tonesniper-worker
     url = git@github.com:Vinzzzie/Tonesniper-worker.git
     branch = worker
+[submodule "Tonesniper-domain"]
+	path = Tonesniper-domain
+	url = git@github.com:Vinzzzie/Tonesniper-domain.git
+	branch = domain

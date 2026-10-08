@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tonesniper-backend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tonesniper-database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tonesniper-domain" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tonesniper-frontend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tonesniper-storage" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tonesniper-worker" vcs="Git" />
