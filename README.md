@@ -1,5 +1,9 @@
 # ToneSniper
 
+Use ToneSniper to manage, buy and sell your sound gear.
+<sub><sub>(i.e. guitars, amps, pedals and synths)</sub></sub>
+
+
 ## [ToneSniper Frontend](./tonesniper-frontend/README.md) 
 Angular webinterface.
 
