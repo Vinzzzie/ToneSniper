@@ -1,6 +1,6 @@
 # ToneSniper
 
-Use ToneSniper to manage, buy and sell your sound gear.
+Use ToneSniper to manage, buy and sell your sound gear.</br>
 <sub><sub>(i.e. guitars, amps, pedals and synths)</sub></sub>
 
 
